@@ -1,8 +1,8 @@
 <div>
     <h2>Welcome to my Github Profile</h2>
     <img src="./assets/lain.png" width="25%" align="right" />
-    <p>Full-Stack Developer. I build things, break things, and occasionally ship things.</p>
-    <p>Thank you to everyone who has helped me.</p>
+    <p>Full-Stack Developer. I build things, break things......</p>
+    <p>Thank you to everyone who has helped me</p>
 <p>
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
